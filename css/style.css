@@ -1,0 +1,33 @@
+.divl{
+    position: absolute;
+    left: 5%;
+    top: 16px;
+    
+}
+.divr{
+    position: absolute;
+    right: 5%;
+    top: 16px;
+}
+.divm{
+    text-align: center;
+}
+table{
+    border-radius: 15px;
+    border-spacing: 0;
+}
+.tabrad1{
+    border-radius: 10px 0px 0px 0px;
+}
+.tabrad2{
+    border-radius: 0px 10px 0px 0px;
+}
+.tabrad3{
+    border-radius: 0px 0px 0px 10px;
+}
+.tabrad4{
+    border-radius: 0px 0px 10px 0px;
+}
+fieldset{
+    border-radius: 10px;
+}
