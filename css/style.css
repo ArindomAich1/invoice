@@ -1,18 +1,22 @@
 .divl{
+    width: 30%;
     position: absolute;
     left: 5%;
     top: 16px;
     
 }
 .divr{
+    width: 30%;
     position: absolute;
     right: 5%;
     top: 16px;
 }
 .divm{
+    width: 35;
     text-align: center;
 }
 table{
+    width: 100%;
     border-radius: 15px;
     border-spacing: 0;
 }
@@ -29,5 +33,9 @@ table{
     border-radius: 0px 0px 10px 0px;
 }
 fieldset{
+    
     border-radius: 10px;
+}
+section td input{
+    width: 90%;
 }
