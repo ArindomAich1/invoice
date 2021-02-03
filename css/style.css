@@ -36,6 +36,10 @@ fieldset{
     
     border-radius: 10px;
 }
+section{
+    margin: 0;
+    padding: 0;
+}
 section td input{
     width: 90%;
 }
